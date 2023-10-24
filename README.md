@@ -19,11 +19,11 @@ Includes a set of 13 `.fbx` files:
 
 Includes basic materials for each subcomponent.
 
-![](/Preview.png)
+![](/Images/Preview.png)
 
 ## Usage
 
-![](/Assembled.png)
+![](/Images/Assembled.png)
 
 Note: You may need to adjust the paved road's shader inside Unity to work properly or it'll look black!
 My recommended settings are:

@@ -6,6 +6,7 @@ Includes a set of 12 `.fbx` files.
 
 ## Features
 - Plain grass tile
+- Plain grass tile with a tree
 - Straight road
 - Curved road (L Road)
 - 4-way intersection (X Road)
@@ -22,6 +23,13 @@ Includes basic materials for each subcomponent.
 ## Usage
 
 ![](/Assembled.png)
+
+Note: You may need to adjust the paved road's shader inside Unity to work properly or it'll look black!
+My recommended settings are:
+- Base map color: #4B473D
+- Specular map: #8E8E8E
+- Source: Specular alpha
+- (Optional) Height map: 0.02
 
 # License
 
